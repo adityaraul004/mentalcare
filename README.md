@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HealSmart: A Medical Assistant
 
   <br>
@@ -236,3 +237,6 @@ Click [here](https://heal-smart.vercel.app/) to visit the web app directly.
 
 
 - Link to Dataset: https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning
+=======
+# mentalcare
+>>>>>>> 0b3be63e9d089fb5057efa1b726565d134422e5b
